@@ -75,5 +75,3 @@ def analyze_text(filename):
 
 # Run the analysis
 analyze_text('sample.txt')
-
-count
